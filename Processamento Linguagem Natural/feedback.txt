@@ -1,0 +1,82 @@
+FEEDBACK.START.END.AVALIAÇÃO
+A experiência foi incrível, estou muito satisfeito.18.26.BOM
+Recebi um ótimo atendimento ao cliente.10.15.BOM
+O serviço prestado superou todas as expectativas.19.26.BOM
+Fiquei impressionado com a qualidade do produto.7.20.BOM
+O aplicativo é fácil de usar e eficiente.31.40.BOM
+O desempenho da equipe foi excepcional.27.38.BOM
+Obrigado por resolverem meu problema prontamente.0.8.BOM
+Fui tratado com cortesia e profissionalismo.16.24.BOM
+A entrega foi rápida e o produto estava em perfeitas condições.43.52.BOM
+Agradeço pelo excelente suporte técnico.14.23.BOM
+Muito bom a loja.0.9.BOM
+A experiência foi terrível, estou muito insatisfeito.40.52.RUIM
+O atendimento ao cliente foi péssimo.29.36.RUIM
+O serviço deixou muito a desejar.10.32.RUIM
+A qualidade do produto foi decepcionante.27.40.RUIM
+O aplicativo é confuso e cheio de erros.25.39.RUIM
+A equipe não atendeu às minhas expectativas.9.20.RUIM
+Meu problema demorou muito para ser resolvido.13.26.RUIM
+Fui tratado de forma rude e desrespeitosa.28.41.RUIM
+A entrega demorou mais do que o prometido.10.17.RUIM
+O suporte técnico foi ineficiente e pouco útil.22.33.RUIM
+A apresentação foi envolvente e informativa.19.29.BOM
+Recebi assistência prontamente e com cortesia.37.45.BOM
+O novo recurso do aplicativo é intuitivo e facilita muito o uso.43.51.BOM
+A resposta da equipe de suporte foi rápida e eficaz.36.51.BOM
+A empresa demonstrou compromisso com a satisfação do cliente.21.49.BOM
+A reunião foi desorganizada e improdutiva.14.41.RUIM
+O manual de instruções é confuso e difícil de entender.25.42.RUIM
+O tempo de espera no atendimento telefônico foi excessivo.48.57.RUIM
+O produto chegou danificado devido a embalagem inadequada.47.57.RUIM
+A interface do site é lenta e cheia de bugs.22.27.RUIM
+O atendimento ao cliente foi excepcionalmente amigável e prestativo.29.67.BOM
+Estou muito contente com a rapidez da entrega.27.34.BOM
+O produto foi embalado com muito cuidado e chegou em perfeitas condições.53.72.BOM
+A equipe de suporte técnico foi muito eficiente em resolver meu problema.32.47.BOM
+O website é intuitivo e fácil de navegar.12.29.BOM
+A qualidade do serviço é realmente notável.35.42.BOM
+Recebi um excelente valor pelo preço que paguei.10.19.BOM
+A empresa demonstrou compromisso com a satisfação do cliente.39.49.BOM
+O suporte online foi muito útil quando precisei de assistência.21.31.BOM
+A loja sempre entrega um alto padrão de qualidade.25.36.BOM
+O atendimento ao cliente deixou muito a desejar.25.47.RUIM
+Atrasaram a entrega sem qualquer aviso prévio.0.9.RUIM
+O produto que recebi estava danificado e mal embalado.28.53.RUIM
+O suporte técnico não conseguiu resolver meu problema de forma satisfatória.18.31.RUIM
+O website é confuso e difícil de navegar.12.29.RUIM
+A qualidade do serviço deixa muito a desejar.23.44.RUIM
+Não valeu o preço que paguei pelo serviço.0.9.RUIM
+A empresa não demonstrou preocupação com a satisfação do cliente.10.36.RUIM
+O suporte online foi pouco útil quando precisei de assistência.21.31.RUIM
+A loja não mantém um padrão consistente de qualidade.7.17.RUIM
+Feliz.0.5.BOM
+Inteligente.0.11.BOM
+Criativo.0.8.BOM
+Generoso.0.8.BOM
+Determinado.0.11.BOM
+Amigável.0.8.BOM
+Leal.0.4.BOM
+Comunicativo.0.12.BOM
+Confiável.0.9.BOM
+Talentoso.0.9.BOM
+Empreendedor.0.12.BOM
+Inovador.0.8.BOM
+Resiliente.0.10.BOM
+Inspirador.0.10.BOM
+Alegre.0.6.BOM
+Egoísta.0.7.RUIM
+Preconceituoso.0.14.RUIM
+Teimoso.0.7.RUIM
+Preguiçoso.0.10.RUIM
+Desonesto.0.9.RUIM
+Arrogante.0.9.RUIM
+Insensível.0.10.RUIM
+Impaciente.0.10.RUIM
+Negligente.0.10.RUIM
+Incompetente.0.12.RUIM
+Irritadiço.0.10.RUIM
+Desleal.0.7.RUIM
+Inflexível.0.10.RUIM
+Inseguro.0.8.RUIM
+Desatencioso.0.12.RUIM
