@@ -3,26 +3,17 @@ import spacy
 #Carregando o modelo
 nlp = spacy.load("modelo_ner")
 
-feedback = [
-    "Seu trabalho neste projeto foi excelente.",
-    "Gostaria de elogiar sua habilidade de trabalho em equipe.",
-    "Seu comprometimento em cumprir prazos é notável.",
-    "Sua habilidade de comunicação é uma grande vantagem.",
-    "Sua capacidade de se adaptar a mudanças é impressionante."
-    "Seu desempenho neste projeto não atendeu às expectativas.",
-    "Sua colaboração com a equipe deixou a desejar.",
-    "Seus atrasos consistentes afetaram negativamente o cronograma da equipe.",
-    "Sua comunicação precisa ser mais eficaz.",
-    "Sua resistência a mudanças prejudicou a equipe em várias ocasiões."
-]
-#Testando
-for i in range(5):
-    frase = feedback[i]
-    if frase[-1] == ".":
-        frase = frase[:-1]
-    doc = nlp(frase)
-    for ent in doc.ents:
-        print(ent.text, ent.label_)
+while True:
+    feedback = input("Insira seu feedback: ")
+    print("Escreva (q) para sair.")
+    print()
+    if (feedback == "q"):
+        break
+    else:
+        doc = nlp(feedback)
+        for item in doc.ents:
+            print(f"Palavra: {item.text}, Entidade: {item.label_}")
+
 
 #Resultados podem não ser totalmente precisos, pois seria necessário a criação de um DataFrame com diversas
 #frases e adjetivos únicos para ser absorvido pela máquina, ele consegue identificar palavras-chaves e associa-las

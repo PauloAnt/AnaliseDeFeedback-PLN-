@@ -31,11 +31,11 @@ for i in range(len(fd_text)):
 
 #Aplicando o treino
 optimizer = nlp.begin_training()
-for _ in range(30):
+for _ in range(80):
     losses = {}
     random.shuffle(training_data)
     for example in training_data:
-        nlp.update([example], drop=0.2, losses=losses)
+        nlp.update([example], drop=0.3, losses=losses)
     print("Losses:", losses)
 
 #Salvando o modelo

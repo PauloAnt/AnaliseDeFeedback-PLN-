@@ -1,0 +1,59 @@
+Nome: Alice Silva
+Idade: 28
+E-mail: alice.silva@emailficticio.com
+
+Nome: João Pereira
+Idade: 34
+E-mail: joao.pereira@emailficticio.com
+
+Nome: Sofia Rodrigues
+Idade: 22
+E-mail: sofia.rodrigues@emailficticio.com
+
+Nome: Pedro Almeida
+Idade: 31
+E-mail: pedro.almeida@emailficticio.com
+
+Nome: Isabella Santos
+Idade: 19
+E-mail: isabella.santos@emailficticio.com
+
+Nome: Lucas Oliveira
+Idade: 25
+E-mail: lucas.oliveira@emailficticio.com
+
+Nome: Manuela Costa
+Idade: 37
+E-mail: manuela.costa@emailficticio.com
+
+Nome: Miguel Ferreira
+Idade: 29
+E-mail: miguel.ferreira@emailficticio.com
+
+Nome: Laura Martins
+Idade: 23
+E-mail: laura.martins@emailficticio.com
+
+Nome: Enzo Sousa
+Idade: 18
+E-mail: enzo.sousa@emailficticio.com
+
+Nome: Helena Barbosa
+Idade: 40
+E-mail: helena.barbosa@emailficticio.com
+
+Nome: Rafaela Nunes
+Idade: 27
+E-mail: rafaela.nunes@emailficticio.com
+
+Nome: Guilherme Santos
+Idade: 33
+E-mail: guilherme.santos@emailficticio.com
+
+Nome: Vitória Costa
+Idade: 21
+E-mail: vitoria.costa@emailficticio.com
+
+Nome: Gabriel Rodrigues
+Idade: 26
+E-mail: gabriel.rodrigues@emailficticio.com

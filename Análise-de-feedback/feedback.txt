@@ -50,6 +50,9 @@ Não valeu o preço que paguei pelo serviço.0.9.RUIM
 A empresa não demonstrou preocupação com a satisfação do cliente.10.36.RUIM
 O suporte online foi pouco útil quando precisei de assistência.21.31.RUIM
 A loja não mantém um padrão consistente de qualidade.7.17.RUIM
+Produto extremamente bom.21.24.BOM
+Estrutura muito boa.10.19.BOM
+Pessoas legais e ambiente agradável.8.14.BOM
 Feliz.0.5.BOM
 Inteligente.0.11.BOM
 Criativo.0.8.BOM
